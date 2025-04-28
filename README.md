@@ -46,13 +46,6 @@ int main() {
 ## OUTPUT
 ![check](./img/check.png)
 
-## C Program to create new process using Linux API system calls fork() and exit()
-```c
-
-```
-## OUTPUT
-
-
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```c
 #include <stdio.h>
@@ -100,7 +93,11 @@ int main() {
 ## OUTPUT
 ![exec](./img/exec.png)
 
+## C Program that uses Linux Process API - exit() , wait()
+```c
 
+```
+## OUTPUT
 
 # RESULT:
 The programs are executed successfully.
